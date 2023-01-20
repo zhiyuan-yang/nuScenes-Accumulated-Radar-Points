@@ -9,6 +9,7 @@ Recently, a series of articles [1-6] have proposed data-driven extended target t
 
 -- opencv
 
+## Reference
 [1] H. Kaulbersch, J. Honer, and M. Baum, ‘EM-based Extended Target Tracking with Automotive Radar using Learned Spatial Distribution Models’, in 2019 22th International Conference on Information Fusion (FUSION), Jul. 2019, pp. 1–8. doi: 10.23919/FUSION43075.2019.9011179.
 
 [2] A. Scheel and K. Dietmayer, ‘Tracking Multiple Vehicles Using a Variational Radar Model’, IEEE Transactions on Intelligent Transportation Systems, vol. 20, no. 10, pp. 3721–3736, Oct. 2019, doi: 10.1109/TITS.2018.2879041.
