@@ -1,9 +1,12 @@
 # nuScenes-Accumulated-Radar-Points
 Recently, a series of articles [1-6] have proposed data-driven extended target tracking methods using nuScenes[7] dataset. These methods use accumulated car radar points in the dataset to learn the extended target measurement model. This repo contains the py code to preprocess nuScenes dataset to accumulate radar points and tranform them into the unit object coordinate.
 ## Dependencies
--- nuScenes devkit
+--nuScenes devkit
+
 -- pyquaternion
+
 -- numpy
+
 -- opencv
 
 [1] H. Kaulbersch, J. Honer, and M. Baum, ‘EM-based Extended Target Tracking with Automotive Radar using Learned Spatial Distribution Models’, in 2019 22th International Conference on Information Fusion (FUSION), Jul. 2019, pp. 1–8. doi: 10.23919/FUSION43075.2019.9011179.
